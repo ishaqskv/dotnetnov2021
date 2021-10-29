@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Shaikskv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Shaikskv\\.nuget\\packages"
+    ]
+  }
+}
